@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python and its libraries
 - 💞️ I’m looking to collaborate on nothing this time
 - 📫 How to reach me : wha?
-- 😄 Pronouns: he like man idk
 - ⚡ Fun fact: there is no fun fact..
 
 <!---
